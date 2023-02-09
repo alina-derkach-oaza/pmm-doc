@@ -1,4 +1,5 @@
-# Docker
+# Install PMM client with package manager
+
 
 How to run PMM Server with Docker based on our [Docker image].
 
