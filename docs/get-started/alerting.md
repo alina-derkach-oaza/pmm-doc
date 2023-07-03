@@ -174,7 +174,7 @@ Before Percona Alerting can send out email notifications via email contact point
 1. Configure Email (SMTP) server settings.
 2. Configure a contact point to define the email delivery options
 
-Contact points with invalid settings show a **No Attempts** status under <i class="uil uil-bell"> **Alerting > Contact points**.
+Contact points with invalid settings show a **No Attempts** status under <i class="uil uil-bell"></i> **Alerting > Contact points**.
 
 ### Configure Email (SMTP) server settings
 
